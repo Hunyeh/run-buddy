@@ -15,4 +15,5 @@ Made with ❤️ by [Hunter]
 
 ### 
 
-&Copy2019 Run Buddy, Inc
+©️2019 Run Buddy, Inc
+
