@@ -12,3 +12,7 @@ https://hunyeh.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Hunter]
+
+### 
+
+&Copy2019 Run Buddy, Inc
